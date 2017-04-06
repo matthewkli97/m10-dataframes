@@ -28,6 +28,6 @@ opponents <- c("Dolphins","Rams","49ers","Jets")
 
 # Assign your dataframe rownames of their opponents
 
-my.data$rownames <- opponents
+rownames(my.data) <- opponents
 
 
