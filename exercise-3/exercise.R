@@ -1,4 +1,4 @@
-# Exercise 4: Working with Data Frames
+# Exercise 3: Working with Data Frames
 
 # Load R's "USPersonalExpenditure" dataest using the `data()` function
 

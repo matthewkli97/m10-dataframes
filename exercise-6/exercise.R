@@ -1,4 +1,4 @@
-# Exercise 7: Husky Football 2015 Season
+# Exercise 6: Husky Football 2015 Season
 # Read in the Husky Football 2015 game data into a variable called `husky.games.2015`
 
 # Create a vector of the teams that the Huskies played against during that season

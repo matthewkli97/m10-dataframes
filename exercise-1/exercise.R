@@ -1,4 +1,4 @@
-# Exercise 2: Creating data frames
+# Exercise 1: Creating data frames
 
 # Create a vector of the number of points the Seahawks scored the first 4 games of last season
 # Hint: (google "Seahawks scores 2016")
